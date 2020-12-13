@@ -37,6 +37,3 @@ for (let i = Math.min(...seat_ids); i < Math.max(...seat_ids); i++) {
         break;
     }
 }
-
-
-//console.log(total);
