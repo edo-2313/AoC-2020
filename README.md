@@ -11,8 +11,8 @@ Everything is run locally using Nodejs so I can take advantage of the *fs* modul
 - [x] Day 4
 - [x] Day 5
 - [x] Day 6
-- [x] Day 7
-- [ ] Day 8
+- [ ] Day 7
+- [x] Day 8
 - [ ] Day 9
 - [ ] Day 10
 - [ ] Day 11
